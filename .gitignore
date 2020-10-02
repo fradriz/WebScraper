@@ -1,0 +1,14 @@
+.idea/
+src/*.egg-info
+.pyc
+*.pyc
+__pycache__/
+.coverage
+notes.md
+data_eng/
+.ipynb_checkpoints
+spark-warehouse
+.DS_Store
+spineds/.DS_Store
+./build
+build
