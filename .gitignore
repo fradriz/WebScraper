@@ -4,7 +4,7 @@ src/*.egg-info
 *.pyc
 __pycache__/
 .coverage
-notes.md
+notes.txt
 data_eng/
 .ipynb_checkpoints
 spark-warehouse
