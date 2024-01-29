@@ -14,7 +14,7 @@ def realstate_search(url: str, base_output_path: str):
     page = requests.get(url)
     soup = BeautifulSoup(page.content, 'html.parser')
 
-    # Using the Chrome Developer Tool: This is the class that holds each real state.
+    # Using the Chrome Developer Tool: This is the class that holds each property information.
     web_elems = soup.find_all(class_='letra2 cajaPremiumResultados ResultadoCaja')
 
     count = 0

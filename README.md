@@ -18,9 +18,10 @@ The idea is to track and collect the information to later have some insights of 
 ### Web Scraper - Real State
 Web sources I might be using to get the information:
 
+* https://www.zonaprop.com.ar/casas-venta-maschwitz-country-club-menos-200000-dolar.html
 * https://www.inmobusqueda.com.ar/casa-enbarrio-nunez-en-capital-federal.html
 * https://www.remax.com.ar/
 * https://www.topinmobiliario.com/home/index.ashx
-* https://www.zonaprop.com.ar/
+* https://www.zonaprop.com.ar/casas-venta-nunez-4-ambientes-menos-200000-dolar.html
 * https://www.2clics.com.ar/portales-inmobiliarios/
  
