@@ -18,10 +18,18 @@ The idea is to track and collect the information to later have some insights of 
 ### Web Scraper - Real State
 Web sources I might be using to get the information:
 
+Houses in Buenos Aires province, Escobar:
 * https://www.zonaprop.com.ar/casas-venta-maschwitz-country-club-menos-200000-dolar.html
+
+Apartments in CABA Tribunales (downtown):
 * https://www.inmobusqueda.com.ar/casa-enbarrio-nunez-en-capital-federal.html
+ 
+PH (propiedad horizontal) in CABA, Nuñez:
+* https://www.zonaprop.com.ar/casas-venta-nunez-4-ambientes-menos-200000-dolar.html
+
+Other useful links:
 * https://www.remax.com.ar/
 * https://www.topinmobiliario.com/home/index.ashx
-* https://www.zonaprop.com.ar/casas-venta-nunez-4-ambientes-menos-200000-dolar.html
 * https://www.2clics.com.ar/portales-inmobiliarios/
- 
+
+Where CABA = Ciudad Autonoma de Buenos Aires.
